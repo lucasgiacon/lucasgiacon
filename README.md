@@ -3,7 +3,7 @@
 
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
 - 📓 BSc Computer Science at [UFABC](https://www.ufabc.edu.br/en)
-- 🌱 Focusing on **Backend Web Development** and practicing **Frontend** and **Cloud Computing**.
+- 🌱 Focusing on **Backend Web Development** and practicing **DevOps** and **Cloud Computing**.
 - 💬 I’m looking forward to contribute to **Open Source Projects**
 - 🤔 Open for: <b>Internship</b> or a <b>new career opportunity</b>
 - 📫 Feel free to reach me out at lucascgiacon@gmail.com
