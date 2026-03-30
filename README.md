@@ -1,27 +1,32 @@
-### Hi there👋, I'm Lucas 
-<br>
+### Hey, I'm Lucas 👋
 
-- ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
-- 📓 BSc Computer Science at [UFABC](https://www.ufabc.edu.br/en)
-- 🌱 Focusing on **Backend Web Development** and practicing **DevOps** and **Cloud Computing**.
-- 💬 I’m looking forward to contribute to **Open Source Projects**
-- 🤔 Open for: <b>Internship</b> or a <b>new career opportunity</b>
-- 📫 Feel free to reach me out at lucascgiacon@gmail.com
-<br><br>
+Enthusiast of Science and Technology — I love building things that actually solve problems, mine or someone else's.  
+I like understanding problems before jumping to solutions — and thinking about who's actually going to use what I build, and how.  
+Currently focused on **Web Development**, **Cloud Infrastructure**, and anything that touches **Linux**, **AI**, **Networking** or **Security**.
 
+- 🎓 BSc Computer Science  @ [UFABC](https://www.ufabc.edu.br/en)
+- ⚙️ Building systems that collect, process, and act on data — The full picture, from infra to the end user.
+- 🎮 Passionate about esports
+- 📫 lucascgiacon@gmail.com
 
+---
 
-<b> Technologies I use:
+**Technologies I work with:**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucascgiacon&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?us)
