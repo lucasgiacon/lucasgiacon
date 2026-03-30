@@ -1,10 +1,10 @@
 ### Hey, I'm Lucas 👋
 
 Enthusiast of Science and Technology — I love building things that actually solve problems, mine or someone else's.  
-I like understanding problems before jumping to solutions — and thinking about who's actually going to use what I build, and how.  
+I like understanding problems, thinking about who's going to use what I build, and how.  
 Currently focused on **Web Development**, **Cloud Infrastructure**, and anything that touches **Linux**, **AI**, **Networking** or **Security**.
 
-- 🎓 BSc Computer Science  @ [UFABC](https://www.ufabc.edu.br/en)
+- 🎓 BSc Computer Science @ [UFABC](https://www.ufabc.edu.br/en)
 - ⚙️ Building systems that collect, process, and act on data — The full picture, from infra to the end user.
 - 🎮 Passionate about esports
 - 📫 lucascgiacon@gmail.com
